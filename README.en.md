@@ -18,6 +18,8 @@ Renomeador em lote com preview em tempo real, Regex, numeração e exportação 
 
 ## Project Files
 
+- `.git`
+- `.gitattributes`
 - `app.js`
 - `index.html`
 - `README.md`
