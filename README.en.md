@@ -2,12 +2,12 @@
 
 # Piercer Batch File Renamer
 
-Renomeador em lote com preview em tempo real, Regex, numeração e exportação de script
+renamer in batch with preview in real time, Regex, numeração and exportação of script
 
 ## Features
 
-- **Main Sections**: Regras de Renomeação, Preview Antes / Depois
-- **Available Actions**: Abrir Pasta (Direto), Aplicar na Pasta Aberta, Baixar Script PowerShell (.ps1), Baixar Script Bash (.sh)
+- **Main Sections**: Regras of Renomeação, Preview Antes / Depois
+- **Available Actions**: open folder (Direto), Aplicar in folder Aberta, download Script PowerShell (.ps1), download Script Bash (.sh)
 - **Auto-Save**: automatically persists changes in the browser (`localStorage`).
 - **Multi-Language**: built-in language switcher (`PT / EN / ES`).
 
