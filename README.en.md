@@ -22,6 +22,7 @@ renamer in batch with preview in real time, Regex, numeração and exportação 
 - `.gitattributes`
 - `app.js`
 - `index.html`
+- `piercer_i18n.js`
 - `README.md`
 - `start.bat`
 - `styles.css`
